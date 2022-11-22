@@ -1,0 +1,11 @@
+.Footer {
+  position: relative;
+  top: 335px;
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.Footer a {
+  text-decoration: none;
+  color: #5a9cc2;
+}
