@@ -1,0 +1,9 @@
+.Weather {
+  text-align: center;
+  color: #ffffff;
+}
+
+.Weather ul {
+  list-style: none;
+  padding: 0px;
+}
